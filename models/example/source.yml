@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: raw  # The dataset name
+    database: erste-demo-453312  # The project name
+    schema: raw  # The dataset/schema name
+    tables:
+      - name: raw_card_operations  # The table name
+        description: "This table contains raw card operations data."
+      - name: raw_client_applications  # The table name
+      - name: raw_clients  # The table name
+      - name: raw_products  # The table name
+
