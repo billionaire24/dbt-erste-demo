@@ -2,6 +2,6 @@
 version: 2
 
 models:
-  - name: dim_clients
+  - name: dim_customer
 
   - name: dim_merchant
